@@ -1,3 +1,4 @@
 This is my 1st file for git demo
 PART 2
 This is the updated version of this file
+PART 3
